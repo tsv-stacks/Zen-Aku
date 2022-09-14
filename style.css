@@ -1,0 +1,33 @@
+* {
+    font-family: 'Rubik Dirt', Arial, Helvetica, sans-serif;
+ }
+
+ img {
+    height: auto;
+    max-width: 100%;
+    display: block;
+ }
+
+ label {
+     list-style: none;
+     margin-left: -1em;
+
+ }
+
+ header, h3, h1 {
+    text-align: center;
+ }
+
+ .img-caption {
+    font-size: 90%;
+ }
+
+ .quote {
+   text-align: center;
+ }
+
+ /* header {
+    background-color:
+ #9f98a8
+
+ } */
